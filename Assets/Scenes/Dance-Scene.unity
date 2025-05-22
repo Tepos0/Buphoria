@@ -537,14 +537,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: hunter+license
+  mTrackableName: naruto
   mInitializedInEditor: 1
   mDataSetPath: 
-  mAspectRatio: 1.4122807
+  mAspectRatio: 1
   mImageTargetType: 3
-  mWidth: 0.14161491
+  mWidth: 0.2
   mHeight: 0.2
-  mRuntimeTexture: {fileID: 2800000, guid: 02bda0cb62757a944b41cfa4d11749d4, type: 3}
+  mRuntimeTexture: {fileID: 2800000, guid: 9761761b9235187449c40d98672e875a, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -579,7 +579,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1355506466}
   mHiddenRoot: {fileID: 0}
-  mTargetName: hunter+license
+  mTargetName: naruto
   mDatasetName: 
   mCastedBehaviour: {fileID: 1355506466}
   mMeshFilter: {fileID: 0}
